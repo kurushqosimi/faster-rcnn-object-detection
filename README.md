@@ -95,3 +95,8 @@ faster-rcnn-object-detection
 ├── requirements.txt
 └── README.md
 ```
+
+### Ссылка на готовую модель:
+https://drive.google.com/file/d/1WZmfe1cXFmimw7dv-8ZT7h58Orj-N-ns/view?usp=drive_link
+
+Вы можете скачать готовую модель и локально работать с ней. 
